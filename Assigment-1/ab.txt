@@ -1,0 +1,2 @@
+Merge Conflict
+When you don't update your local before pushing
